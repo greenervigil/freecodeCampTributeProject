@@ -1,4 +1,17 @@
 body {
-  margin-top: 100px;
   text-align: center;
+}
+
+.container {
+  background-color: lightgrey;
+  margin-top: 50px;
+}
+
+img {
+  padding: 15px;
+}
+
+footer {
+  height: 50px;
+  padding: 20px;
 }
