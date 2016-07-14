@@ -2,16 +2,22 @@ body {
   text-align: center;
 }
 
-.container {
-  background-color: lightgrey;
-  margin-top: 50px;
+footer {
+  height: 50px;
+  padding: 20px;
 }
 
 img {
   padding: 15px;
 }
 
-footer {
-  height: 50px;
+ul {
+  list-style: none;
   padding: 20px;
+}
+
+.container {
+  background-color: lightgrey;
+  border-radius: 25px;
+  margin-top: 50px;
 }
